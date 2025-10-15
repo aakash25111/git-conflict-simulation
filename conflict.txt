@@ -1,0 +1,1 @@
+Adding conflict.txt in conflict-4 branch
